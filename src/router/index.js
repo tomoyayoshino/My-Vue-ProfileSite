@@ -1,29 +1,44 @@
 import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import BootstrapVue from 'bootstrap-vue'
+import Router from 'vue-router'
+import HelloWorld from '@/components/HelloWorld'
+import profile from '@/components/profile'
+import skill from '@/components/skill'
+import portfolio from '@/components/portfolio'
+import contact from '@/components/contact'
 
-Vue.use(VueRouter)
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 
-  const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: Home
-  },
-  {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
-]
+Vue.use(Router)
+Vue.use(BootstrapVue)
 
-const router = new VueRouter({
-  mode: 'history',
-  base: process.env.BASE_URL,
-  routes
+export default new Router({
+  routes: [
+    {
+      path: '/',
+      name: 'HelloWorld',
+      component: HelloWorld
+    },
+    {
+      path: '/profile',
+      name: 'profile',
+      component: profile
+    },
+    {
+      path: '/skill',
+      name: 'skill',
+      component: skill
+    },
+    {
+      path: '/portfolio',
+      name: 'portfolio',
+      component: portfolio
+    },
+    {
+      path: '/contact',
+      name: 'contact',
+      component: contact
+    }
+  ]
 })
-
-export default router
