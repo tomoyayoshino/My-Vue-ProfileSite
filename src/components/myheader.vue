@@ -1,10 +1,10 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg">
       <div class="container">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
-              <router-link class="text-white px-5 py-3" to="/">Home</router-link>
+              <router-link class="text-white px-5 py-3 h1" to="/">Home</router-link>
           </li>
           <li class="nav-item">
               <router-link class="text-white px-5 py-3" to="/profile">Profile</router-link>
