@@ -1,6 +1,6 @@
 <template>
   <div class="skills">
-    <div class="container mt-4 px-5">
+    <div class="container mt-5 px-5">
       <h1>Skills</h1>
       <div class="row mt-1">
         <!-- HTML/CSS -->
