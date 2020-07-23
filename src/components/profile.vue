@@ -31,6 +31,10 @@
               <td>Twitter</td>
               <td><a href="https://twitter.com/yoshino_t0331">@yoshino_t0331</a></td>
             </tr>
+            <tr>
+              <td>Wantedly</td>
+              <td><a href="https://www.wantedly.com/users/138531357">吉野 智也</a></td>
+            </tr>
           </tbody>
         </table>
       </div>
