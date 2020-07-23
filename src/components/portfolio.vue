@@ -19,8 +19,8 @@
             SNS・チャット・タスク管理・イベントを組み合わせた、プログラミング学習者向けの交流サイトです。<br>
             より詳しい開発環境などはGitHubをご参照ください。
           </h5>
-          <a href="https://github.com/tomoyayoshino/motivateyourself" class="btn px-5 ml-4" style="background: #24292e; color: white; font-weight: bold;">GitHub</a>
-          <a href="http://18.181.137.18/" class="btn btn-info ml-3" style="color: white; font-weight: bold;">アクセスはこちらから</a>
+          <a href="https://github.com/tomoyayoshino/motivateyourself" target="_blank" rel="noopener noreferrer" class="btn px-5 ml-4" style="background: #24292e; color: white; font-weight: bold;">GitHub</a>
+          <a href="http://18.181.137.18/" target="_blank" rel="noopener noreferrer" class="btn btn-info ml-3" style="color: white; font-weight: bold;">アクセスはこちらから</a>
           <h3 class="pt-4">デモムービー</h3>
           <iframe width="448" height="252" src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
@@ -36,7 +36,7 @@
           <h5 class="portfolio__content pb-3">
             現在ご覧いただいているサイトです。SPAを作りたいと考えて手始めとして実装いたしました。
             </h5>
-          <a href="https://github.com/tomoyayoshino/My-Vue-ProfileSite" class="btn px-5 ml-4" style="background: #24292e; color: white; font-weight: bold;">GitHub</a>
+          <a href="https://github.com/tomoyayoshino/My-Vue-ProfileSite" target="_blank" rel="noopener noreferrer" class="btn px-5 ml-4" style="background: #24292e; color: white; font-weight: bold;">GitHub</a>
         </div>
       </div>
       <!-- ここまで1ブロック -->
