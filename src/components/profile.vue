@@ -21,15 +21,19 @@
             </tr>
             <tr>
               <td>GitHub</td>
-              <td><a href="https://github.com/tomoyayoshino">tomoyayoshino</a></td>
+              <td><a href="https://github.com/tomoyayoshino" target="_blank" rel="noopener noreferrer">tomoyayoshino</a></td>
             </tr>
             <tr>
               <td>Qiita</td>
-              <td><a href="https://qiita.com/yoshino0331">@yoshino0331</a></td>
+              <td><a href="https://qiita.com/yoshino0331" target="_blank" rel="noopener noreferrer">@yoshino0331</a></td>
             </tr>
             <tr>
               <td>Twitter</td>
-              <td><a href="https://twitter.com/yoshino_t0331">@yoshino_t0331</a></td>
+              <td><a href="https://twitter.com/yoshino_t0331" target="_blank" rel="noopener noreferrer">@yoshino_t0331</a></td>
+            </tr>
+            <tr>
+              <td>Wantedly</td>
+              <td><a href="https://www.wantedly.com/users/138531357" target="_blank" rel="noopener noreferrer">吉野 智也</a></td>
             </tr>
           </tbody>
         </table>

@@ -11,7 +11,7 @@
         <p class="my-5">or</p>
         <div>
           <p>Twitterのダイレクトメッセージ</p>
-          <a href="https://twitter.com/yoshino_t0331" class="btn" style="background: #1da1f2; color: white; font-weight: bold;">Twitter</a>
+          <a href="https://twitter.com/yoshino_t0331" target="_blank" rel="noopener noreferrer" class="btn" style="background: #1da1f2; color: white; font-weight: bold;">Twitter</a>
         </div>
       </div>
     </div>
