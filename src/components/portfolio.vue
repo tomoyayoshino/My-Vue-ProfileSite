@@ -22,7 +22,7 @@
           <a href="https://github.com/tomoyayoshino/motivateyourself" target="_blank" rel="noopener noreferrer" class="btn px-5 ml-4" style="background: #24292e; color: white; font-weight: bold;">GitHub</a>
           <a href="http://18.181.137.18/" target="_blank" rel="noopener noreferrer" class="btn btn-info ml-3" style="color: white; font-weight: bold;">アクセスはこちらから</a>
           <h3 class="pt-4">デモムービー</h3>
-          <iframe width="448" height="252" src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/uYqz8nRgsdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
       <!-- ここまで1ブロック -->
@@ -51,6 +51,7 @@
             Googleカレンダーへの予定の追加・参照と、決まった時間に今日・明日の予定を通知するbotです。簡単な挨拶への返答機能もあります。
           </h5>
           <h3 class="pt-4">デモムービー</h3>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/gppE3cQFizI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
       <!-- ここまで1ブロック -->
