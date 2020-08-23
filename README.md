@@ -1,4 +1,4 @@
-# Tomoya Yoshino’s Profile Site
+# Tomoya Yoshino’s ProfileSite
 [アクセスはこちらから](https://my-profile-a1c1e.web.app/#/)
 
 ## 使用技術一覧
